@@ -1,0 +1,16 @@
+zixiandevvm:
+  os:
+    linux:
+      distro: ubuntu
+      version: 22.04
+  enable_audit: true
+  network:
+    enable_dhcp: true
+    enable_firewall: true
+    custom_hosts:
+      github.example.com: "10.92.23.47"
+      jenkins.example.com: "10.92.23.48"
+  http_proxy: http://proxy.example.com
+  packages:
+    - vim
+    - docker
