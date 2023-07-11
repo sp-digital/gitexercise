@@ -3,7 +3,6 @@ zixiandevvm:
     linux:
       distro: ubuntu
       version: 22.04
-  enable_audit: true
   network:
     enable_dhcp: true
     enable_firewall: true
