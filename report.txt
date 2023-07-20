@@ -2,11 +2,19 @@ What makes people happy?
 
 <our finalized response>
 
+<<<<<<< HEAD
 1. If it's good it good 
 2.icecreams
 3.Happy World!
 4. Happy Kids, Happy Wife!
 5.
+=======
+1.
+2.
+3.
+4.
+5. Myla makes people happy
+>>>>>>> a788667 (Update my happy list from Myla)
 6.
 7.
 8.
